@@ -1,0 +1,23 @@
+.badge-new{
+    background: gray;
+    border-radius: 50%;
+    padding: 8px;
+    font-size: 10px;
+    color: #fff;
+    margin-right: 7px;
+}
+.card-body.newdesign p{
+    font-size: 12px;
+    margin: 10px 0;
+}
+.d-flex.align-items{
+    align-items: center;
+    justify-content: end;
+}
+.d-flex.align-items span{
+    padding: 0 5px;
+}
+.card.wid-style{
+    /* width: 18rem; */
+    margin: 1rem 0;
+}
