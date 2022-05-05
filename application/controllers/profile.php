@@ -18,15 +18,12 @@ class Profile extends CI_Controller {
 	}
     public function add()
     {
-        $this->load->view('header.php');
         $this->load->view('profile.php');
-        $this->load->view('footer.php');
     }
     public function login()
     {
-        $this->load->view('header.php');
         $this->load->view('login.php');
-        $this->load->view('footer.php');
+        
     }
     public function logout()
     {
